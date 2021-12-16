@@ -1,0 +1,28 @@
+C:\Users\filip\source\repos\Gestionale log In\Gestionale log In\bin\Debug\Gestionale log In.exe.config
+C:\Users\filip\source\repos\Gestionale log In\Gestionale log In\bin\Debug\Gestionale log In.exe
+C:\Users\filip\source\repos\Gestionale log In\Gestionale log In\bin\Debug\Gestionale log In.pdb
+C:\Users\filip\source\repos\Gestionale log In\Gestionale log In\bin\Debug\Newtonsoft.Json.dll
+C:\Users\filip\source\repos\Gestionale log In\Gestionale log In\bin\Debug\Newtonsoft.Json.xml
+C:\Users\filip\source\repos\Gestionale log In\Gestionale log In\obj\Debug\Gestionale log In.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\Gestionale log In\Gestionale log In\obj\Debug\Gestionale_log_In.frmHome.resources
+C:\Users\filip\source\repos\Gestionale log In\Gestionale log In\obj\Debug\Gestionale_log_In.frmlogIn.resources
+C:\Users\filip\source\repos\Gestionale log In\Gestionale log In\obj\Debug\Gestionale_log_In.Properties.Resources.resources
+C:\Users\filip\source\repos\Gestionale log In\Gestionale log In\obj\Debug\Gestionale log In.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\Gestionale log In\Gestionale log In\obj\Debug\Gestionale log In.csproj.CopyComplete
+C:\Users\filip\source\repos\Gestionale log In\Gestionale log In\obj\Debug\Gestionale log In.exe
+C:\Users\filip\source\repos\Gestionale log In\Gestionale log In\obj\Debug\Gestionale log In.pdb
+C:\Users\filip\source\repos\Gestionale log In\Gestionale log In\obj\Debug\Gestionale_log_In.frmCreate.resources
+C:\Users\filip\OneDrive\Desktop\Gestionale log In\Gestionale log In\bin\Debug\Gestionale log In.exe.config
+C:\Users\filip\OneDrive\Desktop\Gestionale log In\Gestionale log In\bin\Debug\Gestionale log In.exe
+C:\Users\filip\OneDrive\Desktop\Gestionale log In\Gestionale log In\bin\Debug\Gestionale log In.pdb
+C:\Users\filip\OneDrive\Desktop\Gestionale log In\Gestionale log In\bin\Debug\Newtonsoft.Json.dll
+C:\Users\filip\OneDrive\Desktop\Gestionale log In\Gestionale log In\bin\Debug\Newtonsoft.Json.xml
+C:\Users\filip\OneDrive\Desktop\Gestionale log In\Gestionale log In\obj\Debug\Gestionale log In.csprojAssemblyReference.cache
+C:\Users\filip\OneDrive\Desktop\Gestionale log In\Gestionale log In\obj\Debug\Gestionale_log_In.frmCreate.resources
+C:\Users\filip\OneDrive\Desktop\Gestionale log In\Gestionale log In\obj\Debug\Gestionale_log_In.frmHome.resources
+C:\Users\filip\OneDrive\Desktop\Gestionale log In\Gestionale log In\obj\Debug\Gestionale_log_In.frmlogIn.resources
+C:\Users\filip\OneDrive\Desktop\Gestionale log In\Gestionale log In\obj\Debug\Gestionale_log_In.Properties.Resources.resources
+C:\Users\filip\OneDrive\Desktop\Gestionale log In\Gestionale log In\obj\Debug\Gestionale log In.csproj.GenerateResource.cache
+C:\Users\filip\OneDrive\Desktop\Gestionale log In\Gestionale log In\obj\Debug\Gestionale log In.csproj.CopyComplete
+C:\Users\filip\OneDrive\Desktop\Gestionale log In\Gestionale log In\obj\Debug\Gestionale log In.exe
+C:\Users\filip\OneDrive\Desktop\Gestionale log In\Gestionale log In\obj\Debug\Gestionale log In.pdb
