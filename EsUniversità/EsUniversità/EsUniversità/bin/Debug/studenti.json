@@ -1,0 +1,22 @@
+[
+  {
+    "Matricola": 12345,
+    "Cognome": "Rossi",
+    "Nome": "Paolo",
+  },
+  {
+    "Matricola": 12346,
+    "Cognome": "Verdi",
+    "Nome": "Marco",
+  },
+  {
+	"Matricola":9892321,
+	"Cognome":"Pippo",
+	"Nome":"Carolino",
+  },
+  {
+	"Matricola":90348309,
+	"Cognome":"Matteo",
+	"Nome":"Mattei",
+  }
+]

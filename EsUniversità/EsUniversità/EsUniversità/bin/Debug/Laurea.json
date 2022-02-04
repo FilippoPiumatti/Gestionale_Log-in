@@ -1,0 +1,26 @@
+[
+  {
+    "CodL": 1,
+    "Nome": "informatica",
+    "CreditiTot": 100,
+	"CodF": 1,
+  },
+  {
+    "CodL": 2,
+    "Nome": "matematica",
+    "CreditiTot": 100,
+	"CodF": 1,
+  },
+  {
+    "CodL": 3,
+    "Nome": "lettere",
+    "CreditiTot": 80,
+	"CodF": 2,
+  },
+  {
+    "CodL": 4,
+    "Nome": "filosofia",
+    "CreditiTot": 75,
+	"CodF": 2,
+  }  
+]

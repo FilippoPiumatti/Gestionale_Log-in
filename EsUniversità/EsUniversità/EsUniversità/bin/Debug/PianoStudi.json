@@ -1,0 +1,16 @@
+[
+  {
+    "CodicePS": 1,
+    "Anno": 1,
+    "CreditiOttenuti": 0,
+	"CreditiDaOttenere": 130,
+	"Matricola": 12345
+  },
+  {
+    "CodicePS": 2,
+    "Anno": 1,
+    "CreditiOttenuti": 0,
+	"CreditiDaOttenere": 100,
+	"Matricola": 12346
+  }
+]
