@@ -1,0 +1,9 @@
+C:\Users\f.piumatti.1365\source\repos\progetto_basket\progetto_basket\bin\Debug\progetto_basket.exe.config
+C:\Users\f.piumatti.1365\source\repos\progetto_basket\progetto_basket\bin\Debug\progetto_basket.exe
+C:\Users\f.piumatti.1365\source\repos\progetto_basket\progetto_basket\bin\Debug\progetto_basket.pdb
+C:\Users\f.piumatti.1365\source\repos\progetto_basket\progetto_basket\obj\Debug\progetto_basket.csprojAssemblyReference.cache
+C:\Users\f.piumatti.1365\source\repos\progetto_basket\progetto_basket\obj\Debug\progetto_basket.Form1.resources
+C:\Users\f.piumatti.1365\source\repos\progetto_basket\progetto_basket\obj\Debug\progetto_basket.Properties.Resources.resources
+C:\Users\f.piumatti.1365\source\repos\progetto_basket\progetto_basket\obj\Debug\progetto_basket.csproj.GenerateResource.cache
+C:\Users\f.piumatti.1365\source\repos\progetto_basket\progetto_basket\obj\Debug\progetto_basket.exe
+C:\Users\f.piumatti.1365\source\repos\progetto_basket\progetto_basket\obj\Debug\progetto_basket.pdb
